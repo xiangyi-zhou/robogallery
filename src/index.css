@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New", Courier, monospace;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: bold;
+  color: #3d9bff; /* blue color */
+  text-shadow: 1px 1px 2px #333;
+}
+
